@@ -38,3 +38,6 @@ Contiene las rutas de la API organizadas por entidad:
 - `index.js`: Archivo principal que inicializa el servidor.
 - `server.js`: Configuración del servidor.
 
+### 📊 Pruebas de Carga
+
+Las pruebas se realizon en Jmeter
